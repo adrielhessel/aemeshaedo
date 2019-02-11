@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hungip.geekmentalhelp.com/sitemap.xml
